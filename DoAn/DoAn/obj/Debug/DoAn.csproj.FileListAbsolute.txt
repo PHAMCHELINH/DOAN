@@ -1,0 +1,59 @@
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Quanli.resources
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.ThemNV.resources
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.QuanliNV.resources
+D:\This PC\TAILIEU\LTUD\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Trangchu.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\LTUD-NHOM6\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\LTUD-NHOM6\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Quanli.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.QuanliNV.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.ThemNV.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.Trangchu.resources
+D:\LTUD-NHOM6\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.QuanliNV.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ThemNV.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.Trangchu.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\HK3\F\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\HK3\F\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.Quanli.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.QuanliNV.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.ThemNV.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.Trangchu.resources
+E:\HK3\F\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\DoAn\DoAn\obj\Debug\DoAn.khachhang.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.phong.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\doan ud\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\doan ud\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.khachhang.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.phong.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.QuanliNV.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.ThemNV.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.HDThanhToan.resources
+E:\doan ud\DoAn\DoAn\obj\Debug\DoAn.ThuePhong.resources
