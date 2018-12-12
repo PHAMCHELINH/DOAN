@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsDatabase.cs" />
     <Compile Include="Dangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
