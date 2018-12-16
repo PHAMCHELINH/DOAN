@@ -103,3 +103,5 @@ C:\Users\pc name\Documents\DAUD-16122018\DoAn\DoAn\obj\Debug\DoAn.ThuePhong.reso
 C:\Users\pc name\Documents\DAUD-16122018\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
 C:\Users\pc name\Documents\DAUD-16122018\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
 C:\Users\pc name\Documents\DAUD-16122018\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\This PC\TAILIEU\LTUD\Đồ án nhóm 6\DAUD-16122018_1000\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\This PC\TAILIEU\LTUD\Đồ án nhóm 6\DAUD-16122018_1000\DoAn\DoAn\obj\Debug\DoAn.pdb
